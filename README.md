@@ -3,7 +3,7 @@ A system for Shavit Center for health and a healthy lifestyle
 
 provide your own .env in document root and make database
 
-
+you have .example_env file in this repo you can copy content
 
 For now
 
