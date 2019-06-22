@@ -1,7 +1,9 @@
 # shavit
 A system for Shavit Center for health and a healthy lifestyle
 
-provide your own .env file make database
+provide your own .env in document root and make database
+
+example .env https://github.com/laravel/laravel/blob/master/.env.example
 
 
 For now
