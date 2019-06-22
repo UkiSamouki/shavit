@@ -28,3 +28,38 @@ exit php tinker
 php artisan serve --to boot serve on port 127.0.0.1:8000
 
 Table search and order dont work currently.
+
+
+
+API routes
+
+GET /api/users  get collection of users
+
+POST /api/user create user 
+
+example json
+
+{
+   
+        "name": "example name",
+        "email": "example@example.com",
+        "phone": "(990) 730-9479 x38378",
+        "password": "liverpul12",
+        "address": "660 Nedra Ways Suite 567\nSouth Bo, NY 46860"
+        
+}
+
+PUT /api/user update user
+
+example json
+
+ {
+      "email": "update_example@example.com",
+      "name": "update_example name",
+      "phone": "(990) 730-9479 x38378",
+      "address": "660 Nedra Ways Suite 567\nSouth Bo, NY 46860",
+      "id": 9
+ }
+
+DELETE /api/user delete user
+
