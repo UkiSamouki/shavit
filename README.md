@@ -3,7 +3,7 @@ A system for Shavit Center for health and a healthy lifestyle
 
 provide your own .env in document root and make database
 
-.example
+
 
 For now
 
