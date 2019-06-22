@@ -1,8 +1,6 @@
 # shavit
 A system for Shavit Center for health and a healthy lifestyle
 
-A system for Shavit Center for health and a healthy lifestyle
-
 provide your own .env file make database
 
 
@@ -14,7 +12,7 @@ you need composer install --for necessary dependencies
 
 sudo npm install  --for necessary dependencies
 
-npm run watch  --to compile everything and to keep compiling when we update somthing
+npm run watch  --to compile everything and to keep compiling when we update something
 
  php artisan migrate   --to make tables
 
