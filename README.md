@@ -53,13 +53,15 @@ PUT /api/user update user
 
 example json
 
- {
-      "email": "update_example@example.com",
-      "name": "update_example name",
-      "phone": "(990) 730-9479 x38378",
-      "address": "660 Nedra Ways Suite 567\nSouth Bo, NY 46860",
-      "id": 9
- }
+{
+   
+        "name": "update_example name",
+        "email": "update_example@example.com",
+        "phone": "(990) 730-9479 x38378",
+        "id": 9,
+        "address": "660 Nedra Ways Suite 567\nSouth Bo, NY 46860"
+        
+}
 
 DELETE /api/user delete user
 
